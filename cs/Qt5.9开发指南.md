@@ -90,6 +90,42 @@ QString存储字符串使用Unicode码
 方便数值输入，具有整数和浮点数两种支持格式  
 ## 其他数值输入和显示组件  
 ### 实例功能
+LineEdit---编辑输入  
+SpinBox---设置数值  
+QSlider---滑动条  
+QScrollBar---卷滚条  
+QProgressBar---进度条  
+QDial---表盘式数值输入组件  
+QLCDNumber---模仿LCD数字的显示组件   
+### 各组件的主要功能和属性 
+
+### 实例功能的代码实现
+
+## 时间日期与定时器
+### 时间日期相关的类
+QTime---时间数据类型  
+QDate---日期数据类型  
+QDateTime---时间日期数据类型  
+QTimeEdit---时间显示组件  
+QDateEdit---日期显示组件  
+QDateTimeEdit---编辑时间日期的显示组件  
+QCalenderWidget---显示日历组件  
+QTimer---计时器类  
+### 日期时间数据与字符串之间的转换
+时间日期编辑器属性设置  
+时间日期数据的获取与转化为字符串  
+字符串转化为日期时间  
+### QCalendarWidget日历组件  
+### 定时器的使用
+QTimer  
+setEnabled()按钮点击之后是都可以再次点击或者被锁定  
+
+## QComboBox 和QPlainTextEdit
+### 实例功能概述
+### QComboBox的使用
+### QPlainTextEdit的使用
+## QListWidget和QToolButton
+### 实例功能简介
 
 
 
