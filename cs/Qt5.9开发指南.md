@@ -126,6 +126,44 @@ setEnabled()按钮点击之后是都可以再次点击或者被锁定
 ### QPlainTextEdit的使用
 ## QListWidget和QToolButton
 ### 实例功能简介
+------------2020-2-9----------  
+### 界面设计
+### QListWidget的操作
+### QToolButton与下拉式菜单
+### 创建右键快捷菜单
+## QTreeWidget和QDockWidget
+### 实例功能概述
+### 界面设计
+### QTreeWidget操作
+### QLabel和QPixmap
+------2020-2-10----------  
+### QDockWidget的操作
+## QTableWidget的使用
+### QTableWidget概述
+### 界面设计与初始化
+### QTableWidget操作
+# Model/View结构
+## Model/View结构
+### Model/View基本原理
+数据  
+模型  
+视图  
+代理  
+### 数据模型  
+### 视图组件
+便利类没有数据模型，直接使用项存储数据，不具备对大型数据源灵活处理的能力  
+### 代理  
+为在视图上编辑数据提供编辑器  
+### Model/View结构的一些概念  
+数据模型为视图组件和代理提供了数据的标准接口  
+## QFileSystemModel
+### QFileSystemModel类的基本功能  
+### QFileSystemModel的使用
+
+## QStringListModel
+### QStringListModel功能概述
+### QStringListModel的使用
+
 
 
 
