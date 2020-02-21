@@ -163,6 +163,32 @@ setEnabled()按钮点击之后是都可以再次点击或者被锁定
 ## QStringListModel
 ### QStringListModel功能概述
 ### QStringListModel的使用
+model/view数据与项不关联，而便利类组件关联  
+## QStandardItemModel
+### 功能概述
+### 界面设计与主窗口类定义  
+### QStandardItemModel的使用
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
